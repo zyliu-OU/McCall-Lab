@@ -1,0 +1,291 @@
+"cluster_index","features","M.Z","RT","Annotation","Cosine.Score","No..of.Shared.Peaks","Mass.Diff..to.Library.Reference","ppm.error","Analog.","Nearest.Neighbors","Proximity","classes","CF_superclass_score"
+2,"X387.181_2.767",387.181,2.767,NA,NA,NA,NA,NA,"No","smenospongidine","First Analog","no matches",0
+5,"X404.207_2.768",404.207,2.768,NA,NA,NA,NA,NA,"No","smenospongidine","First Analog","no matches",0
+14,"X409.162_2.768",409.162,2.768,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+17,"X624.388_3.054",624.388,3.054,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.944878,7,82.151,116272,"Yes","Self-Loop","Self-Loop","no matches",0
+23,"X638.403_3.073",638.403,3.073,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.948735,7,68.1358,96436,"Yes","Self-Loop","Self-Loop","no matches",0
+24,"X287.018_2.395",287.018,2.395,"Massbank:EA018510 Sulfathiazole|4-Amino-N-2-thiazolylbenzenesulfonamide|4-amino-N-(1,3-thiazol-2-yl)benzenesulfonamide",0.959135,7,30.9974,121074,"Yes","Spectral Match to Sulfachloropyridazine from NIST14","First","Benzenoids",0.233333333
+25,"X489.228_2.768",489.228,2.768,NA,NA,NA,NA,NA,"No","[(1S,6S,7R)-6-acetyloxy-1-(3-methylbutanoyloxy)spiro[4a,5,6,7a-tetrahydro-1H-cyclopenta[c]pyran-7,2'-oxirane]-4-yl]methyl 3-methylbutanoate","First Analog","no matches",0
+30,"X110.021_6.211",110.021,6.211,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+35,"X637.306_3.32",637.306,3.32,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+39,"X105.07_2.767",105.07,2.767,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+50,"X432.238_2.769",432.238,2.769,"smenospongidine",0.723284,4,16.0455,35793.2,"Yes","ReSpect:PT112290 E-3,4,5'-trihydroxy-3'-glucopyranosylstilbene|E-Astringin|(2S,3R,4S,5S,6R)-2-[3-[(E)-2-(3,4-dihydroxyphenyl)ethenyl]-5-hydroxyphenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol","Second Analog","no matches",0
+53,"X267.123_2.767",267.123,2.767,"rhodioloside",0.729013,4,51.032,160400,"Yes","D-Mannitol","First Analog","no matches",0
+54,"X200.165_2.552",200.165,2.552,"alpha-Pinene",0.787137,4,63.0349,459673,"Yes","alpha-Pinene","First Analog","no matches",0
+56,"X608.393_3.098",608.393,3.098,"Spectral Match to 1,2-Ditetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.911153,5,70.1149,103337,"Yes","DIDECANOYL-GLYCEROPHOSPHOCHOLINE","First Analog","no matches",0
+58,"X137.046_0.31",137.046,0.31,"Spectral Match to Allopurinol from NIST14",0.8225,5,9.16e-05,0.668044,"No","Spectral Match to Allopurinol from NIST14","First","Organoheterocyclic compounds",0.325
+72,"X333.063_2.524",333.063,2.524,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+75,"X285.133_2.768",285.133,2.768,"D-Mannitol",0.78304,7,85.0204,424862,"Yes","rhodioloside","First Analog","no matches",0
+76,"X790.38_2.768",790.38,2.768,NA,NA,NA,NA,NA,"No","Massbank:PR101056 1-O-b-D-glucopyranosyl sinapate|1-O-Sinapoyl-beta-D-glucose|1-O-Sinapoyl beta-D-glucoside","First Analog","no matches",0
+78,"X582.341_3.046",582.341,3.046,NA,NA,NA,NA,NA,"No","DIDECANOYL-GLYCEROPHOSPHOCHOLINE","Fourth Analog","no matches",0
+125,"X694.465_3.135",694.465,3.135,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.950302,7,12.0738,17088.6,"Yes","Self-Loop","Self-Loop","no matches",0
+137,"X795.335_2.768",795.335,2.768,NA,NA,NA,NA,NA,"No",NA,"None","Organic acids and derivatives",0.058823529
+161,"X554.31_2.942",554.31,2.942,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+170,"X680.414_3.051",680.414,3.051,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.938969,10,54.1562,73725,"Yes","Self-Loop","Self-Loop","no matches",0
+173,"X666.433_3.092",666.433,3.092,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.949152,9,66.1196,90259.1,"Yes","Self-Loop","Self-Loop","no matches",0
+179,"X281.102_2.768",281.102,2.768,"Massbank: esculin hydrate|7-hydroxy-6-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-2-one",0.880162,4,59.9849,175864,"Yes","ADENOSINE-MONOPHOSPHATE","Second","Nucleosides, nucleotides, and analogues",0.245901639
+190,"X664.419_3.086",664.419,3.086,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.942285,7,42.1198,59614.3,"Yes","Self-Loop","Self-Loop","no matches",0
+196,"X550.351_3.01",550.351,3.01,"DIDECANOYL-GLYCEROPHOSPHOCHOLINE",0.95536,7,16.031,28304.2,"Yes","Self-Loop","Self-Loop","no matches",0
+216,"X607.227_2.771",607.227,2.771,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+224,"X650.366_2.938",650.366,2.938,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.936339,7,84.2038,114630,"Yes","Self-Loop","Self-Loop","no matches",0
+250,"X568.361_2.947",568.361,2.947,"Spectral Match to 1-Octadecyl-2-acetyl-sn-glycero-3-phosphocholine from NIST14",0.923694,7,15.959,28890.3,"Yes","Self-Loop","Self-Loop","no matches",0
+256,"X622.372_2.977",622.372,2.977,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.931625,6,84.1668,119125,"Yes","Self-Loop","Self-Loop","no matches",0
+274,"X674.439_3.163",674.439,3.163,"Spectral Match to 1,2-Di-(9Z-tetradecenoyl)-sn-glycero-3-phosphocholine from NIST14",0.930088,8,0.00250244,3.71039,"No","Self-Loop","Self-Loop","Lipids and lipid-like molecules",1
+281,"X184.074_0.312",184.074,0.312,"Spectral Match to Phosphocholine from NIST14",0.971761,6,0.000701904,3.81318,"No","PHOSPHORYLCHOLINE","First","Organic nitrogen compounds",0.6
+317,"X474.249_2.887",474.249,2.887,NA,NA,NA,NA,NA,"No","ReSpect:PT101903 Cytidine-5'-diphosphate sodium salt hydrate,from yeast|CDP Sodium Salt|Cytidine 5'-Diphosphoric Acid|[(2R,3S,4R,5R)-5-(4-amino-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methyl phosphono hydrogen p","First Analog","no matches",0
+335,"X694.429_3.054",694.429,3.054,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.943973,7,12.1102,17140.2,"Yes","Self-Loop","Self-Loop","no matches",0
+337,"X654.332_3.32",654.332,3.32,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+341,"X414.14_2.772",414.14,2.772,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+350,"X801.313_2.768",801.313,2.768,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+358,"X538.315_2.977",538.315,2.977,NA,NA,NA,NA,NA,"No","DIDECANOYL-GLYCEROPHOSPHOCHOLINE","Fourth Analog","no matches",0
+359,"X429.191_2.885",429.191,2.885,"MoNA:918587 Innovar",0.911744,4,91.9641,272707,"Yes","ReSpect:PT111810 1-O-b-D-glucopyranosyl sinapate|1-O-Sinapoyl-beta-D-glucose|1-O-Sinapoyl beta-D-glucoside|[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-eno","First Analog","no matches",0
+434,"X221.06_2.396",221.06,2.396,NA,NA,NA,NA,NA,"No","Massbank:AU265101 Naproxen|2-(6-Methoxy-2-naphthyl)propionic acid|2-(6-methoxynaphthalen-2-yl)propanoic acid","First Analog","no matches",0
+435,"X650.403_3.074",650.403,3.074,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.944831,7,56.1356,79451.6,"Yes","Self-Loop","Self-Loop","no matches",0
+439,"X269.088_0.433",269.088,0.433,"Massbank:EQ313504 Didanosine|9-[(2R,5S)-5-(hydroxymethyl)-2-oxolanyl]-3H-purin-6-one",0.945882,4,31.9903,134924,"Yes","INOSINE - 50.0 eV","First","Nucleosides, nucleotides, and analogues",0.245901639
+472,"X682.363_3.329",682.363,3.329,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+474,"X153.041_0.412",153.041,0.412,NA,NA,NA,NA,NA,"No","GUANINE - 50.0 eV","First Analog","no matches",0
+506,"X596.393_3.06",596.393,3.06,"Spectral Match to 1-Palmitoyl-2-glutaryl phosphatidylcholine from NIST14",0.844258,8,13.9785,22901.6,"Yes","DIDECANOYL-GLYCEROPHOSPHOCHOLINE","Second","Lipids and lipid-like molecules",0.333333333
+509,"X652.418_3.078",652.418,3.078,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.942563,7,54.1208,76599.9,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+513,"X367.336_3.39",367.336,3.39,"3Beta-Hydroxy-23,24-Bisnorchol-5-Enic Acid",0.81164,11,17.878,46410.5,"Yes","7-alpha-hydroxy cholesterol","First","Lipids and lipid-like molecules",0.074074074
+515,"X662.402_3.017",662.402,3.017,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.935047,7,44.1368,62469,"Yes","Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+543,"X119.049_2.77",119.049,2.77,"Massbank:LU028501 2-Hydroxybenzonitrile",0.93852,4,0.994995,8288.59,"Yes","Massbank:LU028501 2-Hydroxybenzonitrile","First Analog","no matches",0
+557,"X566.382_3.018",566.382,3.018,"DIDECANOYL-GLYCEROPHOSPHOCHOLINE",0.880679,7,0,0,"No","DIDECANOYL-GLYCEROPHOSPHOCHOLINE","First","Lipids and lipid-like molecules",0.333333333
+584,"X289.014_2.395",289.014,2.395,NA,NA,NA,NA,NA,"No","Spectral Match to Sulfachloropyridazine from NIST14","Second","Benzenoids",0.233333333
+587,"X696.445_3.083",696.445,3.083,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.919449,7,10.094,14286.5,"Yes","Self-Loop","Self-Loop","no matches",0
+588,"X638.366_2.95",638.366,2.95,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.945714,11,96.2036,130966,"Yes","Self-Loop","Self-Loop","no matches",0
+600,"X720.445_3.09",720.445,3.09,"Spectral Match to KDdiA-PC from NIST14",0.9267,8,0.00158691,2.20269,"No","Self-Loop","Self-Loop","Lipids and lipid-like molecules",1
+623,"X534.286_3.175",534.286,3.175,NA,NA,NA,NA,NA,"No","ReSpect:PT111810 1-O-b-D-glucopyranosyl sinapate|1-O-Sinapoyl-beta-D-glucose|1-O-Sinapoyl beta-D-glucoside|[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-eno","First Analog","no matches",0
+638,"X594.341_2.975",594.341,2.975,"Spectral Match to 1-Palmitoyl-2-glutaryl phosphatidylcholine from NIST14",0.912322,6,16.03,26262.7,"Yes","Spectral Match to 1-Palmitoyl-2-glutaryl phosphatidylcholine from NIST14","First Analog","no matches",0
+667,"X666.397_3.021",666.397,3.021,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.945746,10,68.1726,92806.1,"Yes","Self-Loop","Self-Loop","no matches",0
+688,"X692.449_3.051",692.449,3.051,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.94153,8,40.1044,54746,"Yes","Self-Loop","Self-Loop","no matches",0
+702,"X632.393_3.152",632.393,3.152,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+733,"X108.045_2.395",108.045,2.395,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+754,"X620.356_2.913",620.356,2.913,"Spectral Match to 1,2-Dipentadecanoyl-sn-glycero-3-phosphocholine from NIST14",0.93325,5,86.1837,121980,"Yes","Spectral Match to 1,2-Ditetradecanoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+779,"X564.331_3.008",564.331,3.008,NA,NA,NA,NA,NA,"No","DIDECANOYL-GLYCEROPHOSPHOCHOLINE","Fourth Analog","no matches",0
+847,"X690.434_3.14",690.434,3.14,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.950157,7,16.1046,22793.7,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+871,"X704.45_3.153",704.45,3.153,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.938647,7,2.08911,2956.82,"Yes","Self-Loop","Self-Loop","no matches",0
+872,"X856.569_3.369",856.569,3.369,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.944943,9,45.97,56711.1,"Yes","Self-Loop","Self-Loop","no matches",0
+902,"X634.372_2.992",634.372,2.992,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.922809,8,98.1833,134029,"Yes","Spectral Match to 1,2-Ditetradecanoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+925,"X760.475_3.131",760.475,3.131,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.952242,7,53.9363,76338.7,"Yes","Spectral Match to 1-Octadecanoyl-2-octadecenoyl-sn-glycero-3-phosphocholine from NIST14","First","Lipids and lipid-like molecules",0.162162162
+929,"X722.461_3.045",722.461,3.045,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.91906,7,10.0919,13776.3,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+936,"X678.397_2.979",678.397,2.979,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.943497,7,28.1423,39831.2,"Yes","Self-Loop","Self-Loop","no matches",0
+958,"X604.362_2.948",604.362,2.948,"Spectral Match to 1,2-Ditetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.936386,5,74.1463,109278,"Yes","Spectral Match to 1,2-Dipentadecanoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+966,"X732.445_3.025",732.445,3.025,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.941672,8,2.12543,2893.43,"Yes","Self-Loop","Self-Loop","no matches",0
+976,"X746.46_3.114",746.46,3.114,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.941646,7,39.9211,56502.3,"Yes","Self-Loop","Self-Loop","no matches",0
+1001,"X748.439_2.944",748.439,2.944,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.941437,10,13.8691,18880.5,"Yes","Self-Loop","Self-Loop","no matches",0
+1009,"X748.439_2.997",748.439,2.997,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.944007,10,13.8688,18880.1,"Yes","Self-Loop","Self-Loop","no matches",0
+1058,"X776.578_3.558",776.578,3.558,"Spectral Match to Docosahexaenoyl PAF C-16 from NIST14",0.960187,8,16.012,20202.2,"Yes","Spectral Match to Arachidonoylthio-PC from NIST14","First","Lipids and lipid-like molecules",0.162162162
+1074,"X538.351_2.803",538.351,2.803,"Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14",0.934558,9,13.9842,26668.7,"Yes","Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14","First","Lipids and lipid-like molecules",0.115789474
+1089,"X640.382_3.01",640.382,3.01,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.935062,11,94.188,128222,"Yes","Self-Loop","Self-Loop","no matches",0
+1107,"X351.217_2.741",351.217,2.741,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+1108,"X648.388_2.997",648.388,2.997,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.946838,9,86.1824,117324,"Yes","Self-Loop","Self-Loop","no matches",0
+1117,"X774.563_3.476",774.563,3.476,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.942807,11,39.9926,54443.6,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+1140,"X392.977_0.31",392.977,0.31,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+1159,"X710.387_2.978",710.387,2.978,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.948,7,3.84833,5446.73,"Yes","Self-Loop","Self-Loop","no matches",0
+1208,"X706.428_3.062",706.428,3.062,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.932166,7,0.110596,156.532,"Yes","Self-Loop","Self-Loop","no matches",0
+1239,"X662.403_3.098",662.403,3.098,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.940681,8,72.1673,98244.3,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+1605,"X344.229_2.208",344.229,2.208,"Spectral Match to Nonaethylene glycol from NIST14",0.965046,9,71.0252,171040,"Yes","Spectral Match to Nonaethylene glycol from NIST14","First","Organic oxygen compounds",0.266666667
+1777,"X786.601_5.59",786.601,5.59,"Spectral Match to 1-Stearoyl-2-linoleoyl-sn-glycero-3-phosphocholine from NIST14",0.93789,7,0.0032959,4.19004,"No","Self-Loop","Self-Loop","Lipids and lipid-like molecules",1
+1784,"X328.321_3.281",328.321,3.281,"Massbank:RP003203 Heptadecanoyl Ethanolamide|Margaroyl-ethanolamine|N-(2-hydroxyethyl)heptadecanamide",0.950392,6,14.0158,44593,"Yes","Spectral Match to Palmitoyl ethanolamide from NIST14","First","Organic acids and derivatives",0.058823529
+1827,"X620.437_2.993",620.437,2.993,"Spectral Match to p-tert-Octylphenol nonaglycol ether from NIST14",0.912401,13,17.0311,28224.9,"Yes","Spectral Match to p-tert-Octylphenol undecaglycol ether from NIST14","First","no matches",0
+1837,"X576.411_2.999",576.411,2.999,"Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14",0.893284,16,61.0563,118474,"Yes","Spectral Match to p-tert-Octylphenol undecaglycol ether from NIST14","Second","no matches",0
+1843,"X532.385_3.004",532.385,3.004,"Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14",0.892445,16,17.0301,33045.4,"Yes","Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14","First","no matches",0
+1854,"X852.537_3.277",852.537,3.277,"Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.938234,8,91.9552,120901,"Yes","Self-Loop","Self-Loop","no matches",0
+1859,"X664.463_2.992",664.463,2.992,"Spectral Match to p-tert-Octylphenol nonaglycol ether from NIST14",0.924043,13,61.0569,101187,"Yes","Spectral Match to p-tert-Octylphenol undecaglycol ether from NIST14","First","no matches",0
+1865,"X768.553_4.193",768.553,4.193,"PE(18:0/20:4); [M+H]+ C43H79N1O8P1",0.773059,17,1.00592,1310.57,"Yes","Spectral Match to 1-Hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphoethanolamine from NIST14","First","Lipids and lipid-like molecules",0.047619048
+1870,"X415.14_2.768",415.14,2.768,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+1876,"X608.227_2.768",608.227,2.768,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+1879,"X708.489_2.982",708.489,2.982,"Spectral Match to p-tert-Octylphenol undecaglycol ether from NIST14",0.85495,12,17.0294,24628.1,"Yes","Spectral Match to p-tert-Octylphenol undecaglycol ether from NIST14","First","no matches",0
+1887,"X560.416_3.006",560.416,3.006,"Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14",0.871493,17,45.0612,87437.2,"Yes","Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14","First Analog","no matches",0
+1893,"X444.238_2.77",444.238,2.77,NA,NA,NA,NA,NA,"No","Spectral Match to 1-Myristoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","Organic acids and derivatives",0.058823529
+1894,"X714.471_3.247",714.471,3.247,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.939567,7,20.0995,27362.2,"Yes","Self-Loop","Self-Loop","no matches",0
+1897,"X604.442_3.001",604.442,3.001,"Spectral Match to p-tert-Octylphenol nonaglycol ether from NIST14",0.831904,15,1.03638,1717.54,"Yes","Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14","First Analog","no matches",0
+1899,"X472.363_3.023",472.363,3.023,"Spectral Match to p-tert-Octylphenol pentaglycol ether from NIST14",0.735546,11,45.0585,105448,"Yes","Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14","First Analog","no matches",0
+1900,"X538.388_3.104",538.388,3.104,"Spectral Match to Lyso-PC(16:0) from NIST14",0.975705,10,42.0585,84739.2,"Yes","Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14","First","Lipids and lipid-like molecules",0.115789474
+1901,"X488.359_3.01",488.359,3.01,"Spectral Match to p-tert-Octylphenol hexaglycol ether from NIST14",0.8569,17,17.0268,36124.8,"Yes","Spectral Match to p-tert-Octylphenol hexaglycol ether from NIST14","First","no matches",0
+1928,"X756.553_3.87",756.553,3.87,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.938844,6,23.9996,32761.6,"Yes","Self-Loop","Self-Loop","no matches",0
+1930,"X874.579_3.277",874.579,3.277,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.964481,11,63.9802,78929.6,"Yes","Self-Loop","Self-Loop","no matches",0
+1936,"X842.589_3.585",842.589,3.585,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.937159,9,31.9903,39465,"Yes","Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+1943,"X814.559_3.275",814.559,3.275,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.938551,8,82.0038,111942,"Yes","Self-Loop","Self-Loop","no matches",0
+1944,"X836.543_3.281",836.543,3.281,"Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.941181,10,75.9605,99871.6,"Yes","Self-Loop","Self-Loop","no matches",0
+1954,"X846.547_3.178",846.547,3.178,"Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.941827,10,85.9655,113026,"Yes","Self-Loop","Self-Loop","no matches",0
+1960,"X648.468_2.995",648.468,2.995,"Spectral Match to 1,2-Ditetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.802463,6,30.0399,44273.5,"Yes","Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+1981,"X798.563_3.515",798.563,3.515,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.938888,8,63.9933,87116.7,"Yes","Spectral Match to 1-Hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine from NIST14","Second","Lipids and lipid-like molecules",0.285714286
+1984,"X638.403_2.987",638.403,2.987,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.947912,8,96.1669,130916,"Yes","Self-Loop","Self-Loop","no matches",0
+1994,"X850.595_3.651",850.595,3.651,"Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.954859,7,90.0126,118347,"Yes","Self-Loop","Self-Loop","no matches",0
+2015,"X880.569_3.302",880.569,3.302,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.960978,10,69.9702,86319.1,"Yes","Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+2036,"X744.481_3.262",744.481,3.262,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.930593,7,37.9421,53701.3,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+2081,"X249.112_2.768",249.112,2.768,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+2093,"X477.181_2.949",477.181,2.949,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+2100,"X896.564_3.284",896.564,3.284,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.970872,12,85.9647,106051,"Yes","Self-Loop","Self-Loop","no matches",0
+2101,"X728.405_3.36",728.405,3.36,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+2105,"X806.532_3.587",806.532,3.587,"Spectral Match to 1-Palmitoyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine from NIST14",0.748018,8,0.0184937,22.9293,"No","Spectral Match to 1-Palmitoyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine from NIST14","First","Lipids and lipid-like molecules",0.03030303
+2108,"X634.408_3.14",634.408,3.14,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.914939,8,98.1449,133977,"Yes","Self-Loop","Self-Loop","no matches",0
+2114,"X650.404_3.146",650.404,3.146,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.939882,7,82.1494,112141,"Yes","Self-Loop","Self-Loop","no matches",0
+2138,"X716.485_3.266",716.485,3.266,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.953298,7,9.94611,14077.2,"Yes","Spectral Match to 1-Octadecanoyl-2-octadecenoyl-sn-glycero-3-phosphocholine from NIST14","First","Lipids and lipid-like molecules",0.162162162
+2143,"X796.512_3.283",796.512,3.283,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.935454,7,89.9729,127343,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+2149,"X736.476_3.119",736.476,3.119,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.94146,8,3.92291,5355.12,"Yes","Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+2152,"X812.506_3.308",812.506,3.308,"Spectral Match to 1-Hexadecyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine from NIST14",0.840484,11,65.937,88320.1,"Yes","Spectral Match to 1-Palmitoyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine from NIST14","First","Lipids and lipid-like molecules",0.03030303
+2156,"X798.563_3.38",798.563,3.38,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.938497,7,92.0243,130247,"Yes","Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","Lipids and lipid-like molecules",0.03030303
+2157,"X111.044_2.768",111.044,2.768,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+2164,"X798.526_3.347",798.526,3.347,"Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.926819,10,37.9442,49888.4,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","Lipids and lipid-like molecules",0.03030303
+2169,"X798.527_3.266",798.527,3.266,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.940515,7,91.9882,130196,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+2176,"X814.522_3.363",814.522,3.363,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.885295,8,3.92273,4839.3,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+2182,"X796.542_2.973",796.542,2.973,NA,NA,NA,NA,NA,"No","Spectral Match to p-tert-Octylphenol undecaglycol ether from NIST14","First","no matches",0
+2186,"X566.551_4.344",566.551,4.344,"Cer(d18:1/22:1); [M+H]+ C40H78N1O3",0.841646,8,53.0392,85603.8,"Yes","N-[1,3-dihydroxyoctadec-4-en-2-yl]hexadecanamide","First","no matches",0
+2191,"X710.461_3.089",710.461,3.089,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.923805,7,22.0924,30158.1,"Yes","Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+2197,"X564.365_3.022",564.365,3.022,"Spectral Match to 1-Palmitoyl-2-glutaryl phosphatidylcholine from NIST14",0.827238,5,46.006,75373.8,"Yes","DIDECANOYL-GLYCEROPHOSPHOCHOLINE","First Analog","no matches",0
+2198,"X814.521_3.283",814.521,3.283,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.935944,9,79.9513,108841,"Yes","Self-Loop","Self-Loop","no matches",0
+2225,"X428.338_3.022",428.338,3.022,NA,NA,NA,NA,NA,"No","Spectral Match to p-tert-Octylphenol pentaglycol ether from NIST14","Second Analog","no matches",0
+2243,"X524.278_2.709",524.278,2.709,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+2263,"X756.435_3.368",756.435,3.368,NA,NA,NA,NA,NA,"No","Spectral Match to 1-Myristoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","Organic acids and derivatives",0.058823529
+2268,"X782.531_3.376",782.531,3.376,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.945127,7,75.992,107555,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+3061,"X427.305_3.019",427.305,3.019,"Spectral Match to p-tert-Octylphenol pentaglycol ether from NIST14",0.87629,13,0.000396729,0.928443,"No","Spectral Match to p-tert-Octylphenol tetraglycol ether from NIST14","First","no matches",0
+3072,"X458.23_2.165",458.23,2.165,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+3078,"X669.418_2.994",669.418,2.994,NA,NA,NA,NA,NA,"No","Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+3079,"X706.399_2.251",706.399,2.251,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+3089,"X443.633_2.199",443.633,2.199,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+3103,"X830.553_3.41",830.553,3.41,"Spectral Match to 1,2-Diarachidonoyl-sn-glycero-3-phosphocholine from NIST14",0.847738,9,0.0106201,12.7866,"No","Self-Loop","Self-Loop","no matches",0
+3107,"X495.341_2.956",495.341,2.956,"Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14",0.806709,14,474.319,38838.3,"Yes","Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14","First Analog","no matches",0
+3128,"X220.098_2.367",220.098,2.367,"Massbank:FIO00183 6-Methylcoumarin",0.836505,5,59.0377,366557,"Yes","Self-Loop","Self-Loop","no matches",0
+3139,"X664.418_3.159",664.418,3.159,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.925873,7,42.1206,59615.4,"Yes","Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+3157,"X882.585_3.363",882.585,3.363,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.964752,11,71.9859,88805.8,"Yes","Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+3159,"X366.785_2.164",366.785,2.164,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+3160,"X399.394_3.159",399.394,3.159,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+3202,"X802.558_3.408",802.558,3.408,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.958387,8,96.0193,135901,"Yes","Self-Loop","Self-Loop","no matches",0
+3210,"X914.576_3.148",914.576,3.148,"Spectral Match to N-Tetracosanoyl-4-sphingenyl-1-O-phosphorylcholine from NIST14",0.913602,8,98.8677,121205,"Yes","Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+3214,"X386.717_2.856",386.717,2.856,"[(2E,6Z,10Z)-7,11-bis(acetyloxymethyl)-3,15-dimethylhexadeca-2,6,10,14-tetraenyl] acetate",0.854877,7,306.11,170698,"Yes","Self-Loop","Self-Loop","no matches",0
+3219,"X826.558_3.367",826.558,3.367,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.943468,8,91.9878,125227,"Yes","Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","Lipids and lipid-like molecules",0.03030303
+3221,"X900.523_3.027",900.523,3.027,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.954147,11,89.924,110935,"Yes","Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+3222,"X177.114_5.515",177.114,5.515,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+3229,"X664.418_3.004",664.418,3.004,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.935916,10,70.152,95500.7,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+3231,"X758.531_3.388",758.531,3.388,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.912515,7,23.9651,32624.9,"Yes","Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+3235,"X553.315_3.018",553.315,3.018,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+3236,"X634.371_2.921",634.371,2.921,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.941699,7,72.1679,102143,"Yes","Self-Loop","Self-Loop","no matches",0
+3248,"X400.732_2.96",400.732,2.96,NA,NA,NA,NA,NA,"No","Spectral Match to 1-Myristoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+3263,"X676.418_3.107",676.418,3.107,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.947049,7,30.1214,42632.3,"Yes","Self-Loop","Self-Loop","no matches",0
+3264,"X928.555_3.093",928.555,3.093,"1,2-Dierucoyl-sn-glycero-3-phosphocholine",0.898819,6,29.8281,33189.3,"Yes","Spectral Match to N-Tetracosanoyl-4-sphingenyl-1-O-phosphorylcholine from NIST14","First Analog","no matches",0
+4282,"X354.264_2.856",354.264,2.856,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+4285,"X800.578_3.681",800.578,3.681,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.943774,7,94.0393,133099,"Yes","Self-Loop","Self-Loop","no matches",0
+4292,"X377.146_2.225",377.146,2.225,"RIBOFLAVIN",0.938568,14,0.000396729,1.05192,"No","RIBOFLAVIN - 50.0 eV","First Analog","no matches",0
+4312,"X584.335_2.714",584.335,2.714,"Spectral Match to Lyso-PC(16:0) from NIST14",0.937152,7,88.0062,177314,"Yes","Massbank:PR310841 LPC 18:3","Second","Lipids and lipid-like molecules",0.115789474
+4327,"X784.584_5.594",784.584,5.594,"Spectral Match to Arachidonoylthio-PC from NIST14",0.939724,8,0.000305176,0.388965,"No","Spectral Match to 1-Octadecanoyl-2-octadecenoyl-sn-glycero-3-phosphocholine from NIST14","First","Lipids and lipid-like molecules",0.162162162
+4330,"X335.222_2.829",335.222,2.829,"4-[2-[(1R,4aS,5R,8aS)-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]ethyl]-2H-furan-5-one",0.72023,6,0.000396729,1.18348,"No","4-[2-[(1R,4aS,5R,8aS)-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]ethyl]-2H-furan-5-one","First","no matches",0
+4335,"X510.284_2.604",510.284,2.604,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+4338,"X476.277_2.699",476.277,2.699,"Spectral Match to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14",0.809373,11,21.9864,48397.2,"Yes","Self-Loop","Self-Loop","no matches",0
+4340,"X800.542_3.527",800.542,3.527,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.873053,7,67.9891,92811.2,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4341,"X508.376_2.995",508.376,2.995,"Spectral Match to 1-(1Z-Octadecenyl)-sn-glycero-3-phosphocholine from NIST14",0.862112,8,0.00140381,2.76136,"No","Spectral Match to 1-(1Z-Octadecenyl)-sn-glycero-3-phosphocholine from NIST14","First","Lipids and lipid-like molecules",0.196969697
+4358,"X301.216_2.934",301.216,2.934,"Massbank:PR303656 Resibufogenin",0.830544,9,84.021,218102,"Yes","Spectral Match to (.+/-.)-11-Hydroxy-4Z,7Z,9E,13Z,16Z,19Z-docosahexaenoic acid from NIST14","First","Lipids and lipid-like molecules",0.166666667
+4373,"X534.284_2.699",534.284,2.699,NA,NA,NA,NA,NA,"No","Spectral Match to 1-Hexadecyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine from NIST14","Third Analog","Lipids and lipid-like molecules",0.03030303
+4378,"X854.552_3.333",854.552,3.333,"Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.939935,9,93.9705,123551,"Yes","Self-Loop","Self-Loop","no matches",0
+4379,"X317.211_2.822",317.211,2.822,"Massbank:NA003462 (+)-Costunolide|Costunolide|(3aS,6E,10E,11aR)-6,10-dimethyl-3-methylidene-3a,4,5,8,9,11a-hexahydrocyclodeca[b]furan-2-one",0.753686,8,84.0573,360523,"Yes","4-[2-[(1R,4aS,5R,8aS)-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]ethyl]-2H-furan-5-one","First","no matches",0
+4380,"X756.516_3.487",756.516,3.487,"Spectral Match to 1,2-Dilinoleoyl-sn-glycero-3-phosphocholine from NIST14",0.869044,6,26.0547,33293.7,"Yes","Spectral Match to 1,2-Di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4385,"X800.542_3.562",800.542,3.562,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.885554,7,94.0027,133047,"Yes","Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4388,"X434.197_2.398",434.197,2.398,NA,NA,NA,NA,NA,"No","GLUTATHIONE REDUCED","Second","Organic acids and derivatives",0.25
+4392,"X844.532_3.254",844.532,3.254,"Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.949063,10,83.9501,110376,"Yes","Self-Loop","Self-Loop","no matches",0
+4393,"X832.568_3.188",832.568,3.188,"Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.947942,10,71.9863,94646.4,"Yes","Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4395,"X616.36_3.007",616.36,3.007,NA,NA,NA,NA,NA,"No","Spectral Match to 1-Palmitoyl-2-glutaryl phosphatidylcholine from NIST14","First Analog","no matches",0
+4398,"X335.222_2.714",335.222,2.714,"4-[2-[(1R,4aS,5R,8aS)-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]ethyl]-2H-furan-5-one",0.72023,6,0.000396729,1.18348,"No","4-[2-[(1R,4aS,5R,8aS)-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]ethyl]-2H-furan-5-one","First","no matches",0
+4399,"X367.212_2.601",367.212,2.601,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+4408,"X766.537_3.735",766.537,3.735,"PE(18:0/20:5); [M+H]+ C43H77N1O8P1",0.720666,16,1.00592,1314.02,"Yes","Self-Loop","Self-Loop","no matches",0
+4416,"X328.285_2.89",328.285,2.89,"Spectral Match to D-erythro-C18-Sphingosine from NIST14",0.85827,6,27.9955,93228.5,"Yes","IbuprofenLysine","First Analog","no matches",0
+4420,"X558.284_2.634",558.284,2.634,"Spectral Match to Lyso-PC(16:0) from NIST14",0.900604,7,61.9548,124826,"Yes","Spectral Match to Lyso-PC(16:0) from NIST14","First Analog","Lipids and lipid-like molecules",0.03030303
+4424,"X618.376_3.083",618.376,3.083,NA,NA,NA,NA,NA,"No","DIDECANOYL-GLYCEROPHOSPHOCHOLINE","First Analog","no matches",0
+4428,"X560.335_2.722",560.335,2.722,"Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14",0.929854,8,37.9748,72698.5,"Yes","Massbank:PR310841 LPC 18:3","Second","Lipids and lipid-like molecules",0.115789474
+4438,"X746.569_5.577",746.569,5.577,"PE(18:0/18:1); [M+H]+ C41H81N1O8P1",0.748366,8,1.00726,1351.01,"Yes","Spectral Match to 1-Hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine from NIST14","Second","Lipids and lipid-like molecules",0.047619048
+4453,"X650.365_2.953",650.365,2.953,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.937124,9,84.2045,114631,"Yes","Self-Loop","Self-Loop","no matches",0
+4459,"X309.156_2.415",309.156,2.415,"Spectral Match to .alpha.-CMBHC from NIST14",0.840297,5,12.0495,37513.3,"Yes","Spectral Match to Xanthosine from NIST14","First","Nucleosides, nucleotides, and analogues",0.245901639
+4460,"X738.419_3.081",738.419,3.081,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.946081,7,31.8799,45121.2,"Yes","Self-Loop","Self-Loop","no matches",0
+4478,"X818.552_3.289",818.552,3.289,"Spectral Match to 1,2-Dihexadecanoyl-sn-glycero-3-phosphocholine from NIST14",0.938845,8,83.981,114327,"Yes","Self-Loop","Self-Loop","no matches",0
+4480,"X291.146_2.39",291.146,2.39,"Massbank:EQ313503 Didanosine|9-[(2R,5S)-5-(hydroxymethyl)-2-oxolanyl]-3H-purin-6-one",0.939559,4,54.0482,227957,"Yes","INOSINE - 50.0 eV","First","Nucleosides, nucleotides, and analogues",0.245901639
+4488,"X353.232_2.638",353.232,2.638,"Spectral Match to Prostaglandin I3 from NIST14",0.83743,11,2.01361,5733.22,"Yes","Spectral Match to Prostaglandin I3 from NIST14","First Analog","no matches",0
+4494,"X604.362_3.06",604.362,3.06,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+4498,"X644.392_3.113",644.392,3.113,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+4507,"X359.222_2.857",359.222,2.857,"MoNA:669065 DEHYDROEPIANDROSTERONE",0.769436,11,70.0058,242054,"Yes","Spectral Match to 13,14-Dihydro-15-ketoprostaglandin D1 from NIST14","First Analog","no matches",0
+4523,"X748.475_3.074",748.475,3.074,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.936329,7,41.9359,59354,"Yes","Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4524,"X1147.751_3.056",1147.751,3.056,NA,NA,NA,NA,NA,"No","Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14","Fourth Analog","no matches",0
+4525,"X782.532_3.599",782.532,3.599,"Spectral Match to 1-Hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine from NIST14",0.75661,10,0.0361938,46.2501,"Yes","Spectral Match to 1-Hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4539,"X876.521_3.124",876.521,3.124,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.959061,12,65.9222,81325.3,"Yes","Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4556,"X600.33_2.645",600.33,2.645,"Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14",0.913575,8,77.97,149265,"Yes","Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","Lipids and lipid-like molecules",0.115789474
+4565,"X812.506_3.18",812.506,3.18,"Spectral Match to 1,2-Dilinoleoyl-sn-glycero-3-phosphocholine from NIST14",0.89373,9,29.9352,38252.4,"Yes","Spectral Match to 1-Palmitoyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine from NIST14","Second","Lipids and lipid-like molecules",0.03030303
+4575,"X576.33_2.713",576.33,2.713,"Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14",0.897536,9,53.9698,103319,"Yes","Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4578,"X828.502_3.06",828.502,3.06,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.949623,11,93.9318,127873,"Yes","Self-Loop","Self-Loop","no matches",0
+4587,"X912.56_3.159",912.56,3.159,"Spectral Match to N-Tetracosenoyl-4-sphingenyl-1-O-phosphorylcholine from NIST14",0.921415,6,98.8769,121518,"Yes","Spectral Match to N-Tetracosenoyl-4-sphingenyl-1-O-phosphorylcholine from NIST14","First Analog","no matches",0
+4589,"X165.055_0.414",165.055,0.414,"Spectral Match to L-Tyrosine from NIST14",0.924431,5,0.00379944,23.0198,"No","Spectral Match to L-Tyrosine from NIST14","First","Organoheterocyclic compounds",0.692307692
+4600,"X842.552_3.284",842.552,3.284,"Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.880434,7,81.9699,107773,"Yes","Spectral Match to 1-Palmitoyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine from NIST14","First","Lipids and lipid-like molecules",0.03030303
+4603,"X632.392_2.97",632.392,2.97,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.927454,6,74.1471,104944,"Yes","Self-Loop","Self-Loop","no matches",0
+4611,"X574.278_2.793",574.278,2.793,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+4633,"X800.542_3.395",800.542,3.395,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.95089,7,94.0027,133047,"Yes","Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4640,"X464.208_2.321",464.208,2.321,"Spectral Match to 4-Hydroxynonenal glutathione from NIST14",0.806997,9,0.00369263,7.95475,"No","GLUTATHIONE REDUCED","First","Organic acids and derivatives",0.25
+4643,"X826.595_3.872",826.595,3.872,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.945562,8,15.9959,19733.4,"Yes","Self-Loop","Self-Loop","no matches",0
+4703,"X400.158_0.333",400.158,0.333,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+4721,"X776.579_3.701",776.579,3.701,"Spectral Match to Docosahexaenoyl PAF C-16 from NIST14",0.953842,8,16.0107,20200.5,"Yes","Self-Loop","Self-Loop","no matches",0
+4722,"X538.351_2.868",538.351,2.868,"Spectral Match to Lyso-PC(16:0) from NIST14",0.949093,7,42.0221,84665.7,"Yes","Self-Loop","Self-Loop","no matches",0
+4763,"X230.212_2.638",230.212,2.638,"Spectral Match to Palmitelaidic acid from NIST14",0.828557,9,7.0094,29548,"Yes","Spectral Match to Palmitelaidic acid from NIST14","First Analog","no matches",0
+4798,"X907.526_2.579",907.526,2.579,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+4807,"X907.276_2.579",907.276,2.579,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+4847,"X761.402_2.875",761.402,2.875,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.924241,7,54.863,77650.3,"Yes","Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4859,"X540.272_2.718",540.272,2.718,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+4864,"X732.445_3.057",732.445,3.057,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.94875,7,25.9056,36665.5,"Yes","Self-Loop","Self-Loop","no matches",0
+4867,"X880.569_3.459",880.569,3.459,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.961054,12,69.9701,86319,"Yes","Self-Loop","Self-Loop","no matches",0
+4868,"X262.129_0.406",262.129,0.406,"LAUROYLCARNITINE",0.917613,6,82.1514,238618,"Yes","O-ACETYLCARNITINE","First Analog","no matches",0
+4873,"X333.192_2.619",333.192,2.619,"CAPSAICIN",0.821611,4,26.9865,88131.9,"Yes","Dihydrocapsaicin","First Analog","Nucleosides, nucleotides, and analogues",0.245901639
+4875,"X400.158_0.426",400.158,0.426,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+4881,"X331.177_2.552.1",331.177,2.552,"MoNA:684423 9-[(2R,5S)-5-(hydroxymethyl)-2-oxolanyl]-3H-purin-6-one",0.915683,4,94.0793,396795,"Yes","INOSINE - 50.0 eV","Second","Nucleosides, nucleotides, and analogues",0.245901639
+4894,"X251.114_2.071",251.114,2.071,"Dihydrocapsaicin",0.890875,4,57.1067,185278,"Yes","INOSINE - 50.0 eV","Second","Nucleosides, nucleotides, and analogues",0.245901639
+4899,"X446.196_2.386",446.196,2.386,"Spectral Match to 4-Hydroxynonenal glutathione from NIST14",0.822972,8,18.0077,38792.7,"Yes","GLUTATHIONE REDUCED","First","Organic acids and derivatives",0.25
+4905,"X784.548_3.742",784.548,3.742,"Spectral Match to 1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.927693,9,23.9656,31509.6,"Yes","Self-Loop","Self-Loop","no matches",0
+4909,"X784.547_3.568",784.547,3.568,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.94423,7,78.0076,110408,"Yes","Self-Loop","Self-Loop","no matches",0
+4921,"X786.563_3.567",786.563,3.567,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.956764,7,80.0236,113261,"Yes","Spectral Match to 1-Octadecanoyl-2-octadecenoyl-sn-glycero-3-phosphocholine from NIST14","First","Lipids and lipid-like molecules",0.162162162
+4922,"X804.555_3.448",804.555,3.448,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.946032,10,72.002,98289.2,"Yes","Self-Loop","Self-Loop","no matches",0
+4925,"X786.563_3.593",786.563,3.593,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.953479,7,80.0236,113261,"Yes","Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4927,"X814.521_3.173",814.521,3.173,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.936611,10,79.9513,108841,"Yes","Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","Lipids and lipid-like molecules",0.03030303
+4930,"X900.523_3.093",900.523,3.093,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.959707,10,89.9242,110935,"Yes","Self-Loop","Self-Loop","no matches",0
+4931,"X264.127_2.276",264.127,2.276,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+4936,"X810.563_3.543",810.563,3.543,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.942366,8,75.993,103452,"Yes","Self-Loop","Self-Loop","no matches",0
+4948,"X814.522_3.139",814.522,3.139,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.945949,10,79.9522,108842,"Yes","Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","Lipids and lipid-like molecules",0.03030303
+4956,"X678.397_3.062",678.397,3.062,"Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14",0.943082,8,54.1562,73928.1,"Yes","Self-Loop","Self-Loop","no matches",0
+4961,"X828.501_3.156",828.501,3.156,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.899128,7,93.931,127872,"Yes","Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+4964,"X646.372_3",646.372,3,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.942542,6,60.1673,85157.8,"Yes","Self-Loop","Self-Loop","no matches",0
+4982,"X828.501_3.1",828.501,3.1,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.931983,10,93.9313,127872,"Yes","Self-Loop","Self-Loop","no matches",0
+4988,"X484.247_2.622",484.247,2.622,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+5018,"X560.3_2.643",560.3,2.643,"Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14",0.934593,8,37.9402,72632.3,"Yes","Spectral Match to Lyso-PC(16:0) from NIST14","First Analog","Lipids and lipid-like molecules",0.115789474
+5025,"X375.253_2.846",375.253,2.846,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+5037,"X271.104_0.42",271.104,0.42,"GUANOSINE - 60.0 eV",0.828631,6,12.9949,45740.8,"Yes","Spectral Match to Guanosine from NIST14","First","Nucleosides, nucleotides, and analogues",0.245901639
+5039,"X385.129_0.304",385.129,0.304,"Massbank:PR100198 S-Adenosyl-L-homocysteine|AdoHcy|S-Adenosylhomocysteine|5'-Deoxy-S-adenosyl-L-homocysteine|S-(5'-Deoxyadenosine-5')-L-homocysteine|Formycinylhomocysteine",0.954606,4,0.000488281,1.26784,"No","Self-Loop","Self-Loop","Nucleosides, nucleotides, and analogues",1
+5054,"X878.55_3.264",878.55,3.264,"Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14",0.949289,10,67.9513,83828.5,"Yes","Self-Loop","Self-Loop","no matches",0
+5071,"X592.567_4.398",592.567,4.398,"Cer(d18:2/24:1); [M+H]+ C42H80N1O3",0.757565,4,53.0393,82154.3,"Yes","Ceramide (18:1/16:0)","Second","no matches",0
+5072,"X343.226_2.913",343.226,2.913,"5-hydroxy-7-[2-(2-hydroxy-5-oxo-2H-furan-3-yl)ethyl]-7,8-dimethyl-5,6,6a,8,9,10-hexahydro-1H-benzo[d][2]benzofuran-3-one",0.75856,8,19.9536,54941.3,"Yes","Self-Loop","Self-Loop","no matches",0
+5079,"X409.257_2.779",409.257,2.779,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+5090,"X572.262_2.707",572.262,2.707,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+5108,"X462.192_2.403",462.192,2.403,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+5128,"X665.976_2.25",665.976,2.25,NA,NA,NA,NA,NA,"No","Self-Loop","Self-Loop","no matches",0
+5137,"X590.275_2.421",590.275,2.421,NA,NA,NA,NA,NA,"No","Spectral Match to 1-Arachidoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14","Second Analog","Lipids and lipid-like molecules",0.03030303
+5150,"X590.273_2.56",590.273,2.56,"Spectral Match to 1-Arachidoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14",0.835581,6,37.8694,68553.8,"Yes","Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14","First Analog","Lipids and lipid-like molecules",0.03030303
+5176,"X518.253_2.548",518.253,2.548,NA,NA,NA,NA,NA,"No","Spectral Match to 1-Arachidoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14","Third Analog","Lipids and lipid-like molecules",0.03030303
+5188,"X588.259_2.41",588.259,2.41,NA,NA,NA,NA,NA,"No","Spectral Match to 1-Arachidoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14","Third Analog","Lipids and lipid-like molecules",0.03030303
+5193,"X606.27_2.406",606.27,2.406,NA,NA,NA,NA,NA,"No","Spectral Match to 1-Arachidoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14","First Analog","Lipids and lipid-like molecules",0.03030303
+5693,"X158.922_0.304",158.922,0.304,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+5693,"X158.922_0.307",158.922,0.307,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+5707,"X473.238_2.238",473.238,2.238,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+5740,"X359.222_2.756",359.222,2.756,"5-hydroxy-7-[2-(2-hydroxy-5-oxo-2H-furan-3-yl)ethyl]-7,8-dimethyl-5,6,6a,8,9,10-hexahydro-1H-benzo[d][2]benzofuran-3-one",0.842752,9,3.9581,10898.5,"Yes","Self-Loop","Self-Loop","no matches",0
+5854,"X451.315_2.964",451.315,2.964,"Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14",0.798661,12,386.265,124268,"Yes","Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14","First Analog","no matches",0
+5862,"X414.96_0.309",414.96,0.309,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+5977,"X357.105_2.329",357.105,2.329,NA,NA,NA,NA,NA,"No","Massbank:EA282614 Ketamine|2-(2-chlorophenyl)-2-(methylamino)-1-cyclohexanone","First Analog","no matches",0
+6039,"X285.083_0.446",285.083,0.446,"Spectral Match to Xanthosine from NIST14",0.93945,9,0.000183105,0.642288,"No","Spectral Match to Guanosine from NIST14","First","Nucleosides, nucleotides, and analogues",0.245901639
+6145,"X347.172_2.542",347.172,2.542,"XANTHOSINE - 50.0 eV",0.822387,5,62.0895,217794,"Yes","Spectral Match to Xanthosine from NIST14","Second","Nucleosides, nucleotides, and analogues",0.245901639
+6182,"X650.403_3.014",650.403,3.014,"Spectral Match to 1-Myristoyl-2-stearoyl-sn-glycero-3-phosphocholine from NIST14",0.926909,9,84.167,114580,"Yes","Self-Loop","Self-Loop","no matches",0
+6227,"X756.516_3.371",756.516,3.371,"Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14",0.940755,7,49.9759,70733.4,"Yes","Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14","First Analog","no matches",0
+6437,"X368.389_3.87",368.389,3.87,"Spectral Match to Octadecanamide from NIST14",0.920196,6,84.0937,295797,"Yes","Spectral Match to Octadecanamide from NIST14","Second","Organic acids and derivatives",0.142857143
+6643,"X231.073_0.435",231.073,0.435,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+6799,"X153.041_0.4",153.041,0.4,"GUANINE - 50.0 eV",0.769071,4,0.9841,6471.92,"Yes",NA,"None","no matches",0
+7191,"X169.036_0.372",169.036,0.372,"URATE",0.765693,5,0.000106812,0.631886,"No","URATE - 40.0 eV","First","Organoheterocyclic compounds",0.666666667
+7654,"X285.022_2.394",285.022,2.394,"Spectral Match to Sulfachloropyridazine from NIST14",0.959032,4,0.00100708,3.53337,"No","Spectral Match to Sulfachloropyridazine from NIST14","First","Benzenoids",0.233333333
+8038,"X516.39_3.018",516.39,3.018,"Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14",0.836192,17,1.03601,2010.29,"Yes","Spectral Match to p-tert-Octylphenol heptaglycol ether from NIST14","First Analog","no matches",0
+8039,"X460.269_2.772",460.269,2.772,NA,NA,NA,NA,NA,"No","Spectral Match to N-Lauroylsarcosine from NIST14","Third","Organic acids and derivatives",0.058823529
+8044,"X305.133_2.339",305.133,2.339,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+8164,"X439.121_2.673",439.121,2.673,NA,NA,NA,NA,NA,"No",NA,"None","no matches",0
+8306,"X369.17_2.767",369.17,2.767,"ReSpect:PT111810 1-O-b-D-glucopyranosyl sinapate|1-O-Sinapoyl-beta-D-glucose|1-O-Sinapoyl beta-D-glucoside|[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-eno",0.791545,5,17.9598,46392.3,"Yes","[(1S,6S,7R)-6-acetyloxy-1-(3-methylbutanoyloxy)spiro[4a,5,6,7a-tetrahydro-1H-cyclopenta[c]pyran-7,2'-oxirane]-4-yl]methyl 3-methylbutanoate","First Analog","no matches",0
+8338,"X308.295_3.045",308.295,3.045,"(2R,6S)-2-methyl-6-[(3Z)-pentadec-3-en-1-yl]piperidine",0.829344,7,0.0365906,118.673,"Yes","Spectral Match to 1-Linoleoylglycerol from NIST14","Second","no matches",0
+8722,"X325.216_2.916",325.216,2.916,NA,NA,NA,NA,NA,"No","Spectral Match to (.+/-.)-11-Hydroxy-4Z,7Z,9E,13Z,16Z,19Z-docosahexaenoic acid from NIST14","First","Lipids and lipid-like molecules",0.166666667
+9082,"X375.217_2.773",375.217,2.773,"Massbank:LU131105 Corticosterone|(8S,9S,10R,11S,13S,14S,17S)-11-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one",0.75047,6,27.9955,80627.1,"Yes","4-[2-[(1R,4aS,5R,8aS)-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]ethyl]-2H-furan-5-one","Second","no matches",0
