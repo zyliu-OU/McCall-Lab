@@ -1,1 +1,1 @@
-03172021 is folder contain scripts I made for the project 03172021
+Different folders contain scripts I made for different projects.
