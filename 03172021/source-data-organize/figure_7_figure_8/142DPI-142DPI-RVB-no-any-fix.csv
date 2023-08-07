@@ -1,0 +1,48 @@
+Disease_severity_metadata,annotation_fix,Correlation,FDR_pval,Effect_of_treatment
+Ejection_Fraction,m/z 142.035 RT 0.315 min,-0.59822,0.02143,Restored only by BNZ + Tc24 vaccine treatment
+Ejection_Fraction,m/z 214.181 RT 2.634 min,-0.58665,0.02143,Restored only by BNZ + Tc24 vaccine treatment
+Ejection_Fraction,m/z 300.199 RT 2.264 min,-0.58855,0.02143,Restored only by BNZ + Tc24 vaccine treatment
+Liver_weight/Body_weight,m/z 795.335 RT 2.768 min,0.553911,0.036624,Restored only by BNZ + Tc24 vaccine treatment
+Liver_weight/Body_weight,m/z 300.199 RT 2.264 min,-0.54172,0.038991,Restored only by BNZ + Tc24 vaccine treatment
+Liver_weight/Body_weight,m/z 308.295 RT 3.045 min,-0.52454,0.047753,Restored only by BNZ + Tc24 vaccine treatment
+Liver_weight/Body_weight,m/z 528.311 RT 2.928 min,-0.72462,0.001459,Not restored by any treatment
+Liver_weight/Body_weight,m/z 790.38 RT 2.768 min,0.678091,0.004692,Not restored by any treatment
+Liver_weight/Body_weight,m/z 111.044 RT 2.768 min,0.655559,0.005823,Not restored by any treatment
+Liver_weight/Body_weight,Hypoxanthine,-0.64404,0.005823,Not restored by any treatment
+Liver_weight/Body_weight,m/z 249.112 RT 2.768 min,0.640246,0.005823,Not restored by any treatment
+Liver_weight/Body_weight,m/z 489.228 RT 2.768 min,0.639368,0.005823,Not restored by any treatment
+Liver_weight/Body_weight,m/z 105.07 RT 2.767 min,0.609102,0.006842,Not restored by any treatment
+Liver_weight/Body_weight,m/z 267.123 RT 2.767 min,0.614221,0.006842,Not restored by any treatment
+Liver_weight/Body_weight,Adenosine,-0.62056,0.006842,Not restored by any treatment
+Liver_weight/Body_weight,m/z 285.133 RT 2.768 min,0.613108,0.006842,Not restored by any treatment
+Liver_weight/Body_weight,m/z 369.17 RT 2.767 min,0.613775,0.006842,Not restored by any treatment
+Liver_weight/Body_weight,m/z 404.207 RT 2.768 min,0.628686,0.006842,Not restored by any treatment
+Liver_weight/Body_weight,m/z 406.154 RT 2.765 min,0.608212,0.006842,Not restored by any treatment
+Liver_weight/Body_weight,m/z 387.181 RT 2.767 min,0.604429,0.00707,Not restored by any treatment
+Liver_weight/Body_weight,m/z 486.098 RT 2.765 min,0.595812,0.008376,Not restored by any treatment
+Liver_weight/Body_weight,m/z 511.21 RT 3.171 min,-0.59039,0.008558,Not restored by any treatment
+Liver_weight/Body_weight,m/z 599.241 RT 2.765 min,0.591364,0.008558,Not restored by any treatment
+Liver_weight/Body_weight,Inosine,-0.58818,0.008573,Not restored by any treatment
+Liver_weight/Body_weight,m/z 306.279 RT 3.212 min,-0.58418,0.00903,Not restored by any treatment
+Liver_weight/Body_weight,m/z 303.648 RT 2.884 min,-0.57563,0.010706,Not restored by any treatment
+Liver_weight/Body_weight,m/z 608.227 RT 2.768 min,0.568927,0.012081,Not restored by any treatment
+Liver_weight/Body_weight,m/z 430.223 RT 2.768 min,0.566704,0.012189,Not restored by any treatment
+Liver_weight/Body_weight,m/z 475.989 RT 2.164 min,-0.56371,0.012555,Not restored by any treatment
+Liver_weight/Body_weight,m/z 415.14 RT 2.768 min,0.561478,0.01271,Not restored by any treatment
+Liver_weight/Body_weight,m/z 446.218 RT 2.884 min,0.553466,0.013709,Not restored by any treatment
+Liver_weight/Body_weight,m/z 637.306 RT 3.32 min,-0.55525,0.013709,Not restored by any treatment
+Liver_weight/Body_weight,m/z 792.329 RT 2.764 min,0.553678,0.013709,Not restored by any treatment
+Liver_weight/Body_weight,m/z 278.248 RT 3.1 min,-0.54946,0.014536,Not restored by any treatment
+Ejection_Fraction,m/z 278.248 RT 3.1 min,-0.54216,0.016637,Not restored by any treatment
+Ejection_Fraction,Inosine,-0.5208,0.025788,Not restored by any treatment
+Ejection_Fraction,m/z 280.264 RT 3.159 min,-0.51947,0.025788,Not restored by any treatment
+Liver_weight/Body_weight,m/z 280.264 RT 3.159 min,-0.51541,0.027244,Not restored by any treatment
+Liver_weight/Body_weight,m/z 476.24 RT 2.164 min,-0.50751,0.030266,Not restored by any treatment
+Liver_weight/Body_weight,LPC 22:5 or LPC 22:5 or  LPC O-22:6;O or  PC O-22:5,-0.50868,0.030266,Not restored by any treatment
+Ejection_Fraction,m/z 654.332 RT 3.32 min,-0.50389,0.03168,Not restored by any treatment
+Ejection_Fraction,m/z 637.306 RT 3.32 min,-0.49588,0.035253,Not restored by any treatment
+QTc (s),m/z 303.648 RT 2.884 min,-0.49604,0.035253,Not restored by any treatment
+P Amplitude (V),m/z 476.24 RT 2.164 min,0.491619,0.037369,Not restored by any treatment
+Liver_weight/Body_weight,m/z 654.332 RT 3.32 min,-0.48804,0.039071,Not restored by any treatment
+Ejection_Fraction,m/z 511.21 RT 3.171 min,-0.48183,0.042973,Not restored by any treatment
+QTc (s),m/z 111.044 RT 2.768 min,0.473831,0.04881,Not restored by any treatment

@@ -1,0 +1,32 @@
+Disease_severity_metadata,annotation_fix,Correlation,FDR_pval,Effect_of_treatment
+Liver_weight/Body_weight,Riboflavin,-0.49759,0.036014,Restored only by BNZ + Tc24 vaccine treatment
+Liver_weight/Body_weight,m/z 616.308 RT 2.766 min ,0.539232,0.036836,Restored only by BNZ treatment
+CD3.CD8.IFNg.,PC 22:1;O,0.516079,0.036836,Restored only by BNZ treatment
+Liver_weight/Body_weight,PC 22:1;O,-0.48604,0.045273,Restored only by BNZ treatment
+QTc (s),m/z 679.068 RT 2.179 min ,0.622574,0.013379,Restored by both treatments
+Liver_weight/Body_weight,m/z 385.165 RT 2.771 min ,0.598082,0.013493,Restored by both treatments
+Liver_weight/Body_weight,m/z 679.068 RT 2.179 min ,0.57173,0.013743,Restored by both treatments
+PR Interval (s),m/z 679.068 RT 2.179 min ,0.571054,0.013743,Restored by both treatments
+Liver_weight/Body_weight,m/z 387.192 RT 2.843 min ,-0.54941,0.018628,Restored by both treatments
+CD3.CD8.IFNg.,3-Aminocaproic acid,0.533942,0.022157,Restored by both treatments
+PR Interval (s),3-Aminocaproic acid,-0.5247,0.023305,Restored by both treatments
+Liver_weight/Body_weight,Hypoxanthine,-0.6022,0.021252,Not restored by any treatment
+Liver_weight/Body_weight,m/z 648.468 RT 2.995 min ,0.606568,0.021252,Not restored by any treatment
+PR Interval (s),Hypoxanthine,-0.58783,0.021252,Not restored by any treatment
+P Amplitude (V),m/z 532.385 RT 3.004 min ,-0.58763,0.021252,Not restored by any treatment
+Liver_weight/Body_weight,PC 24:2;O2,0.571511,0.025812,Not restored by any treatment
+Liver_weight/Body_weight,m/z 532.385 RT 3.004 min ,0.563337,0.026369,Not restored by any treatment
+Liver_weight/Body_weight,m/z 516.39 RT 3.018 min ,0.543746,0.029755,Not restored by any treatment
+Liver_weight/Body_weight,m/z 604.442 RT 3.001 min ,0.550523,0.029755,Not restored by any treatment
+P Amplitude (V),m/z 620.437 RT 2.993 min ,-0.54119,0.029755,Not restored by any treatment
+Liver_weight/Body_weight,m/z 560.416 RT 3.006 min ,0.521915,0.031665,Not restored by any treatment
+Liver_weight/Body_weight,m/z 620.437 RT 2.993 min ,0.52907,0.031665,Not restored by any treatment
+P Amplitude (V),m/z 444.332 RT 3.016 min ,-0.52447,0.031665,Not restored by any treatment
+P Amplitude (V),m/z 664.463 RT 2.992 min ,-0.5233,0.031665,Not restored by any treatment
+Liver_weight/Body_weight,m/z 576.411 RT 2.999 min ,0.514435,0.033494,Not restored by any treatment
+Liver_weight/Body_weight,m/z 664.463 RT 2.992 min ,0.509506,0.033494,Not restored by any treatment
+P Amplitude (V),m/z 576.411 RT 2.999 min ,-0.5111,0.033494,Not restored by any treatment
+QTc (s),Hypoxanthine,-0.50211,0.036721,Not restored by any treatment
+Liver_weight/Body_weight,m/z 472.363 RT 3.023 min ,0.496124,0.037089,Not restored by any treatment
+P Amplitude (V),m/z 708.489 RT 2.982 min ,-0.49861,0.037089,Not restored by any treatment
+P Amplitude (V),PC 25:1;O2,0.481719,0.046755,Not restored by any treatment

@@ -1,0 +1,2 @@
+filename,cluster_index,classes,CF_superclass_score,MeanDecreaseAccuracy,annotation,ppm,M.Z,RT,Cosine.Score,No..of.Shared.Peaks,Mass.Diff..to.Library.Reference,Analog.,Nearest.Neighbors,RVT
+X137.046_0.35,58,Organoheterocyclic compounds,0.325,4.397556222,Hypoxanthine_C5H4N4O,2.189041,137.046,0.35,0.8225,5,9.16E-05,No,Spectral Match to Allopurinol from NIST14,not_restored
