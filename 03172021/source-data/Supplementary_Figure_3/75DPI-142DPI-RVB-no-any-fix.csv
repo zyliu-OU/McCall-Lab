@@ -1,8 +1,0 @@
-Disease_severity_metadata,annotation_fix,Correlation,FDR_pval,Effect_of_treatment
-Liver_weight/Body_weight,LPC 22:6 or  PC O-22:6,0.599555,0.015181,Restored only by BNZ treatment
-Liver_weight/Body_weight,m/z 590.322 RT 2.887 min ,0.593764,0.015181,Restored only by BNZ treatment
-P Amplitude (V),LPC 22:6 or  PC O-22:6,-0.57604,0.016145,Restored only by BNZ treatment
-P Amplitude (V),LPC 18:1 or PC O-18:1 or LPC O-18:2;O,-0.52909,0.037031,Restored only by BNZ treatment
-Liver_weight/Body_weight,m/z 132.102 RT 0.307 min ,0.615128,0.012496,Restored by both treatment
-Liver_weight/Body_weight,Methionine,0.650568,0.024341,Not restored by any treatments
-Liver_weight/Body_weight,m/z 303.648 RT 2.884 min ,0.628398,0.024553,Not restored by any treatments

@@ -1,1 +1,0 @@
-Excel files were imported into cytoscape and used to plot the networks. Styles were set in cytoscape and png files of network figures exported.
