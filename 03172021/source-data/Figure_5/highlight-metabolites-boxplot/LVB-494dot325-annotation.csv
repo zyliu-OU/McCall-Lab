@@ -1,0 +1,2 @@
+filename,cluster_index,classes,CF_superclass_score,MeanDecreaseAccuracy,annotation,ppm,M.Z,RT,Cosine.Score,No..of.Shared.Peaks,Mass.Diff..to.Library.Reference,Analog.,Nearest.Neighbors,LVB
+X494.325_2.865,4655,Lipids and lipid-like molecules,0.115789474,2.183423099,LPC 16:1_C24H48NO7P or LPC O-16:2;O_C24H48NO7P,1.820667857,494.325,2.865,0.958488,12,2.00381,Yes,Massbank:PR310841 LPC 18:3,group15

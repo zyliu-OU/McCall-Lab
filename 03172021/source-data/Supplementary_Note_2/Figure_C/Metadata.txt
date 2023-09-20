@@ -1,0 +1,16 @@
+Sample	Treatment
+m10A	benznidazole
+m12A	benznidazole
+m14A	benznidazole
+m15A	benznidazole
+m09A	benznidazole
+m21A	uninfected
+m22A	uninfected
+m23A	uninfected
+m24A	uninfected
+m25A	uninfected
+m16A	vehicle
+m17A	vehicle
+m18A	vehicle
+m19A	vehicle
+m20A	vehicle

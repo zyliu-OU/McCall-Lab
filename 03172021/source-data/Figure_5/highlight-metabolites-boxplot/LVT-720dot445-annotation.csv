@@ -1,0 +1,2 @@
+filename,cluster_index,classes,CF_superclass_score,MeanDecreaseAccuracy,annotation,ppm,M.Z,RT,Cosine.Score,No..of.Shared.Peaks,Mass.Diff..to.Library.Reference,Analog.,Nearest.Neighbors,LVT
+X720.445_3.09,600,Lipids and lipid-like molecules,1,2.166047333,PC 28:3;O3_C36H66NO11P,0.555212712,720.445,3.09,0.9267,8,0.00158691,No,Self-Loop,group9

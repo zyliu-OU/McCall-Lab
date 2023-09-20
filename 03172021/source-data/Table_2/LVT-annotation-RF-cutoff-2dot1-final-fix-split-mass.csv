@@ -1,0 +1,28 @@
+filename,cluster_index,classes,CF_superclass_score,MeanDecreaseAccuracy,annotation,ppm,M.Z,RT,Cosine.Score,No..of.Shared.Peaks,Mass.Diff..to.Library.Reference,Analog.,Nearest.Neighbors,restored
+X141.091_1.54,2971,No matches,0,2.221266835,NA,NA,141.091,1.54,NA,NA,NA,Yes,Massbank:EQ345305 N-Nitrosopiperidine (NPIP)|1-nitrosopiperidine,group9_group15
+X203.007_0.309,8965,Organic acids and derivatives,0.216216216,2.907786272,NA,NA,203.007,0.309,NA,NA,NA,No,Massbank:PR311068 Alanylleucine (isomer of 674),group15
+X240.116_2.324,1848,Benzenoids,0.193548387,2.760645887,NA,NA,240.116,2.324,NA,NA,NA,No,Massbank:EA282611 Ketamine|2-(2-chlorophenyl)-2-(methylamino)-1-cyclohexanone,not_restored
+X249.112_2.768,2081,No matches,0,2.240117396,NA,NA,249.112,2.768,NA,NA,NA,No,Self-Loop,group9
+X272.222_2.957,225,Organic acids and derivatives,0.058823529,2.147429431,N-Lauroylsarcosine_C15H29NO3,2.204079,272.222,2.957,0.996768,8,0.00128174,No,Spectral Match to N-Lauroylsarcosine from NIST14,group9
+X293.211_2.933,605,Lipids and lipid-like molecules,0.666666667,3.316919039,trans-EKODE-(E)-Ib_C18H30O4,2.387354,293.211,2.933,0.713271,10,0.000213623,No,Spectral Match to trans-EKODE-(E)-Ib from NIST14,group15
+X296.258_2.976,7935,No matches,0,2.401140625,NA,NA,296.258,2.976,NA,NA,NA,Yes,NCGC00381425-01!8-hydroxy-8-(3-octyloxiran-2-yl)octanoic acid [IIN-based on: CCMSLIB00000846585],group9_group15
+X311.221_2.932,4788,No matches,0,2.300727664,NA,NA,311.221,2.932,NA,NA,NA,No,NA,group15
+X345.243_3.095,8633,Lipids and lipid-like molecules,0.166666667,2.316577148,NA,NA,345.243,3.095,NA,NA,NA,Yes,"Spectral Match to (.+/-.)-5-Hydroxy-6E,8Z,11Z,14Z,17Z-eicosapentaenoic acid from NIST14",group9
+X366.373_3.699,84,Phenylpropanoids and polyketides,0.090909091,2.431877703,Oleamide_C18H35NO_(M+H+C6H12),1.637673,366.373,3.699,0.770951,10,84.0939,Yes,"Spectral Match to 13-Docosenamide, (Z)- from NIST14",group9_group15
+X440.337_2.765,5113,Lipids and lipid-like molecules,0.196969697,2.984956149,CAR 18:2;O_C25H45NO5,0,440.337,2.765,0.935914,6,13.9796,Yes,Massbank:RP025103 Oleoyl-L-Carnitine|(3R)-3-[(Z)-octadec-9-enoyl]oxy-4-(trimethylazaniumyl)butanoate,group15
+X442.353_2.823,3191,Lipids and lipid-like molecules,0.196969697,3.019273318,CAR 18:1;O_C25H47NO5,0.678191859,442.353,2.823,0.952474,7,15.9945,Yes,Massbank:RP025103 Oleoyl-L-Carnitine|(3R)-3-[(Z)-octadec-9-enoyl]oxy-4-(trimethylazaniumyl)butanoate,not_restored
+X546.029_2.319,4952,No matches,0,2.601738392,NA,NA,546.029,2.319,NA,NA,NA,No,NA,group9
+X607.227_2.771,216,No matches,0,2.425611281,NA,NA,607.227,2.771,NA,NA,NA,No,NA,group9
+X608.227_2.768,1876,No matches,0,2.379065686,NA,NA,608.227,2.768,NA,NA,NA,No,NA,group9_group15
+X690.434_3.14,847,No matches,0,2.478319677,NA,NA,690.434,3.14,NA,NA,NA,Yes,Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14,group9
+X692.414_2.985,366,No matches,0,2.906360088,PC 26:3;O3_C34H62NO11P,1.010956895,692.414,2.985,0.896466,5,40.1391,Yes,Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14,group9
+X708.445_3.006,782,No matches,0,2.268328293,NA,NA,708.445,3.006,NA,NA,NA,Yes,Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14,group9_group15
+X709.936_2.18,4856,No matches,0,2.478465555,NA,NA,709.936,2.18,NA,NA,NA,No,NA,group9_group15
+X720.445_3.09,600,Lipids and lipid-like molecules,1,2.166047333,PC 28:3;O3_C36H66NO11P,0.555212712,720.445,3.09,0.9267,8,0.00158691,No,Self-Loop,group9
+X737.391_2.399,4653,No matches,0,2.856180117,NA,NA,737.391,2.399,NA,NA,NA,No,NA,group9
+X776.042_2.398,4651,No matches,0,2.209958077,NA,NA,776.042,2.398,NA,NA,NA,No,NA,group9_group15
+X776.095_2.398,2564,No matches,0,2.449577312,NA,NA,776.095,2.398,NA,NA,NA,No,NA,group9
+X776.148_2.398,1612,No matches,0,2.221614902,NA,NA,776.148,2.398,NA,NA,NA,No,NA,group9
+X776.359_2.398,1507,No matches,0,2.331660265,NA,NA,776.359,2.398,NA,NA,NA,No,Self-Loop,group9
+X819.433_2.399,1520,No matches,0,2.127904391,NA,NA,819.433,2.399,NA,NA,NA,No,Self-Loop,group9
+X867.281_2.399,2514,No matches,0,2.651480337,NA,NA,867.281,2.399,NA,NA,NA,No,NA,group9

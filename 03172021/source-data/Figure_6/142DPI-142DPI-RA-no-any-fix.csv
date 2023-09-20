@@ -1,0 +1,10 @@
+Disease_severity_metadata,annotation_fix,Correlation,FDR_pval,Effect_of_treatment
+Liver_weight/Body_weight,Hypoxanthine,-0.56771,0.022417,Restored only by BNZ treatment
+Ejection_Fraction,Hypoxanthine,-0.51591,0.024648,Restored only by BNZ treatment
+P Amplitude (V),m/z 696.445 RT 3.083 min ,0.520571,0.024648,Restored only by BNZ treatment
+Liver_weight/Body_weight,m/z 263.091 RT 2.771 min ,0.635334,0.015296,Restored by both treatments
+Liver_weight/Body_weight,m/z 296.258 RT 2.976 min ,-0.647,0.015296,Restored by both treatments
+Liver_weight/Body_weight,m/z 295.227 RT 3.017 min ,-0.60308,0.019888,Restored by both treatments
+Liver_weight/Body_weight,m/z 538.315 RT 2.977 min ,-0.60296,0.019888,Restored by both treatments
+Liver_weight/Body_weight,m/z 696.443 RT 3.1 min ,0.573466,0.034909,Restored by both treatments
+Liver_weight/Body_weight,Eicosatetraenoic acid,0.554974,0.045906,Restored by both treatments

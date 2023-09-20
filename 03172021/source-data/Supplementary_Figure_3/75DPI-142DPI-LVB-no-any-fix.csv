@@ -1,0 +1,39 @@
+Disease_severity_metadata,annotation_fix,Correlation,FDR_pval,Effect_of_treatment
+Liver_weight/Body_weight,PC 22:3;O,-0.67297,0.004838,Restored only by BNZ + Tc24 vaccine treatment
+Liver_weight/Body_weight,Didanosine,-0.7461,9.29E-05,Restored only by BNZ treatment
+Liver_weight/Body_weight,m/z 620.356 RT 2.913 min ,-0.65606,0.001159,Restored only by BNZ treatment
+Ejection_Fraction,Didanosine,-0.65835,0.001159,Restored only by BNZ treatment
+Ejection_Fraction,LPC 16:1 or LPC O-16:2;O,0.568551,0.010975,Restored only by BNZ treatment
+Ejection_Fraction,m/z 386.717 RT 2.856 min ,-0.52709,0.023222,Restored only by BNZ treatment
+Liver_weight/Body_weight,m/z 386.717 RT 2.856 min ,-0.51117,0.023347,Restored only by BNZ treatment
+P Amplitude (V),m/z 251.037 RT 0.323 min ,0.515071,0.023347,Restored only by BNZ treatment
+Liver_weight/Body_weight,LPC 16:1 or LPC O-16:2;O,0.488085,0.032622,Restored only by BNZ treatment
+Liver_weight/Body_weight,m/z 136.062 RT 0.301 min ,-0.72444,0.00063,Not restored by any treatments
+Ejection_Fraction,m/z 682.363 RT 3.329 min ,-0.73773,0.00063,Not restored by any treatments
+Liver_weight/Body_weight,m/z 301.115 RT 0.413 min ,-0.70525,0.000909,Not restored by any treatments
+Liver_weight/Body_weight,m/z 476.24 RT 2.164 min ,-0.69392,0.000909,Not restored by any treatments
+Ejection_Fraction,Hypoxanthine,-0.68276,0.001129,Not restored by any treatments
+Liver_weight/Body_weight,m/z 682.364 RT 3.313 min ,0.670758,0.001495,Not restored by any treatments
+Liver_weight/Body_weight,m/z 475.989 RT 2.164 min ,-0.65863,0.001771,Not restored by any treatments
+Ejection_Fraction,m/z 682.364 RT 3.313 min ,0.658869,0.001771,Not restored by any treatments
+Liver_weight/Body_weight,m/z 682.363 RT 3.329 min ,-0.65201,0.00199,Not restored by any treatments
+Liver_weight/Body_weight,m/z 301.115 RT 0.328 min ,-0.63974,0.00269,Not restored by any treatments
+Liver_weight/Body_weight,m/z 137.046 RT 0.42 min ,-0.63026,0.003314,Not restored by any treatments
+Ejection_Fraction,PC 20:1;O,0.621978,0.003928,Not restored by any treatments
+Liver_weight/Body_weight,m/z 380.993 RT 2.164 min ,-0.59561,0.007218,Not restored by any treatments
+Ejection_Fraction,m/z 203.007 RT 0.309 min ,-0.59756,0.007218,Not restored by any treatments
+Ejection_Fraction,m/z 137.046 RT 0.42 min ,-0.58932,0.007548,Not restored by any treatments
+P Amplitude (V),m/z 301.115 RT 0.413 min ,0.590605,0.007548,Not restored by any treatments
+P Amplitude (V),m/z 136.062 RT 0.301 min ,0.583222,0.007936,Not restored by any treatments
+Ejection_Fraction,m/z 301.115 RT 0.328 min ,-0.58111,0.007966,Not restored by any treatments
+Liver_weight/Body_weight,m/z 136.097 RT 0.551 min ,0.56922,0.009457,Not restored by any treatments
+Liver_weight/Body_weight,m/z 203.007 RT 0.309 min ,-0.57157,0.009457,Not restored by any treatments
+Ejection_Fraction,m/z 136.062 RT 0.301 min ,-0.56892,0.009457,Not restored by any treatments
+Ejection_Fraction,m/z 301.115 RT 0.413 min ,-0.56515,0.009953,Not restored by any treatments
+Ejection_Fraction,m/z 475.989 RT 2.164 min ,-0.55009,0.013386,Not restored by any treatments
+P Amplitude (V),Hypoxanthine,0.549561,0.013386,Not restored by any treatments
+P Amplitude (V),m/z 203.007 RT 0.309 min ,0.543322,0.014911,Not restored by any treatments
+Liver_weight/Body_weight,Erucylamide,0.53661,0.016765,Not restored by any treatments
+Ejection_Fraction,m/z 476.24 RT 2.164 min ,-0.53401,0.017165,Not restored by any treatments
+Liver_weight/Body_weight,Hypoxanthine,-0.52436,0.020544,Not restored by any treatments
+P Amplitude (V),m/z 137.046 RT 0.42 min ,0.488597,0.041673,Not restored by any treatments
