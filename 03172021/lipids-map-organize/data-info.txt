@@ -1,0 +1,6 @@
+bulk_structure_search_20230418200750.tsv
+bulk_structure_search_20230418200708.tsv
+
+You should have two excel data normally, becasue you use both LMSD-lipidmaps and COMP_DB_lipidmaps. You combine them together by copy and paste, make sure the file format is still tsv.
+
+Then run the script and use the combined file as input data.
