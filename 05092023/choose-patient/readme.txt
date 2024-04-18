@@ -1,0 +1,1 @@
+These scripts are used to identify patients with matched information for cohort 2. First, verify the patient IDs already analyzed in cohort 1, then choose patients with matching data from the from the rest of patients as cohort 2.
