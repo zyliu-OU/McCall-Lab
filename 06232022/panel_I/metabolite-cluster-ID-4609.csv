@@ -1,0 +1,2 @@
+features,cluster_index_fix,col_name,corr,corr_abs,corr_pval,FDR_rejected,FDR_pval,CF_superclass,phase,mode,mass,M.Z,RT,cluster_index,Annotation,annotation.check,Cosine.Score,No..of.Shared.Peaks,Mass.Diff..to.Library.Reference,ppm.error,Cluster.Index,Analog.,Nearest.Neighbors,Proximity
+aq_pos_mass_209.092_0.599_4609,aq_pos_4609,CD4-aq_pos_mass_209.092_0.599_4609,0.335673181,0.335673181,0.000882707,TRUE,0.00790282,no matches,aq,pos,mass,209.092,0.599,4609,Kynurenine,Kynurenine,0.970171,8,0.000198364,0.948694,4609,No,Kynurenine,First
