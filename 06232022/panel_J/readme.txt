@@ -1,0 +1,1 @@
+Panel J the script for "Percentage of features with oxidative modifications" data was made by Jarrod Laro, visuallization (barplot) was made by me.
