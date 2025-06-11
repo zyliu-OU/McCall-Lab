@@ -1,1 +1,1 @@
-These are some representative scripts and data we used for this project.
+These are some representative scripts and data we used for project "Rationally designed, prophylactic glycan- and peptide-based vaccines prevent cardiomyopathy in a nonhuman primate model of Chagas disease".
